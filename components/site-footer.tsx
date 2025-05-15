@@ -45,11 +45,7 @@ export function SiteFooter() {
                   Contact
                 </Link>
               </li>
-              <li>
-                <Link href="/blog" className="text-sm text-gray-400 hover:text-white transition-colors">
-                  Blog
-                </Link>
-              </li>
+    
             </ul>
           </div>
 
